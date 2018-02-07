@@ -1,0 +1,11 @@
+{
+  "name": "jquery-placeholder-plugin",
+  "version": "0.1.0",
+  "description": "This placeholder is a jQuery plugin/polyfill",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispot-tv/placeholder"
+  },
+  "license": "The MIT License (MIT)"
+}
