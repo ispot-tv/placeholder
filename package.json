@@ -1,11 +1,24 @@
 {
   "name": "jquery-placeholder-plugin",
   "version": "0.1.0",
-  "description": "This placeholder is a jQuery plugin/polyfill",
+  "description": "placeholder--a jQuery plugin by Dan Bentley
+    placeholder is a jQuery plugin/polyfill by Dan Bentley. It provides support for the new placeholder='' HTML5 form attribute in browsers that don't natively support it (IE et al). It features UI and behaviour additions by Harry Roberts.
+
+    It is licensed under the Apache 2 license and is Copyright 2011 Dan Bentley
+
+    Dan
+    Twitter: @dan_bentley
+
+    GitHub: github.com/danbentley
+
+    Harry
+    Twitter:	@csswizardry
+
+    URL:	csswizardry.com",
   "main": "index.html",
   "repository": {
     "type": "git",
     "url": "https://github.com/ispot-tv/placeholder"
   },
-  "license": "The MIT License (MIT)"
+  "license": "Apache 2 license and is Copyright 2011 Dan Bentley"
 }
